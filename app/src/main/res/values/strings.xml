@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MislugaresPabloApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="accion_mostrar">mostrar</string>
+    <string name="accion_preferencias">Preferencias</string>
+    <string name="accion_acerca_de">Acerca de</string>
+    <string name="accion_salir">Salir</string>
+    <string name="et_acerca_de">APLICACIÓN ASTEROIDES:Hola soy Nombre y Apelelido del alumno.Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas activ idades desde la actividad principal.</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Acercade">A cerca de</string>
+</resources>
